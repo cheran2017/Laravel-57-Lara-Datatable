@@ -3,7 +3,7 @@
 ## Steps
 - Download the source
 - Run Composer install
-- Run php artisan migrate
+- Run php artisan migrate --seed
 - Register a user 
 - Login and start using curd
 
